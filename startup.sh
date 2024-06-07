@@ -144,7 +144,7 @@ cat <<"EOF"
 '--------------'         |         /--\ | (_ | | (_| | | |_ 
       ^      (\_/)       |                        _|            
       '----- (O.o)       |  After adding Reverse Proxy & Encryption, You can access the web interface at:
-             (> <)       |  https://ip-address-of-machine/
+             (> <)       |  https://ip-address-of-machine/arclight
 
 EOF
 #reboot the server to apply changes
