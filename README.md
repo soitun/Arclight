@@ -106,8 +106,7 @@ Note: The project is currently unmaintained as we explored migrating its core fr
   - [Add Reverse Proxy & Encrypt Encrypt Arclight with self-signed cert](https://docs.chatnaut.com/encrypt_arclight/self-cert)
 - [Add Custom Storage Pools](https://docs.chatnaut.com/add-storage-pool)
 - [ISO images for KVM machines](https://docs.chatnaut.com/iso-images-for-kvm)
-  </br></br>Arclight documentation <a href="https://docs.chatnaut.com/">lives here.</a></br>
-  For More Information about its features visit arclight page at <a href="https://chatnaut.com">chatnaut.com</a>
+  </br></br>Arclight documentation <a href="https://arclight-c20.pages.dev/">lives here.</a></br>
   </br></br>
   </br></br>
 
