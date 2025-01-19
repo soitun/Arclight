@@ -47,6 +47,7 @@ Arclight is a server virtualization management solution based on KVM. It is desi
 <p align="center">
 Note: The project is currently unmaintained as we explored migrating its core from PHP to more asynchronous, typed language support like TypeScript for enhanced performance and scalability. Unfortunately, the limited availability of libvirt packages in these languages presented challenges, with the most promising option, [Pulumi's libvirt package](https://www.pulumi.com/registry/packages/libvirt/), still in early development. Moreover, despite its potential, existing open-source hypervisors with large and well-established communities overshadowed the project, stalling development. Originally started as a hobby project, Arclight was never intended as direct competition. In the future, we plan to restart development with a stronger, more resilient approach to realize its full potential.
 </p></br>
+
 <h2 align="center">Deploy on Bare-Metal Cloud Servers or simply in your Home Lab
 </br>
 <a href="">
@@ -114,6 +115,15 @@ Note: The project is currently unmaintained as we explored migrating its core fr
 
 Arclight is open-source, licensed as GPL v3. The client and component libraries are licensed as MPL.
 </br></br>
+</br></br>
+
+## 🙌 Support
+Thank you for the support, especially from the NVIDIA community!
+
+| Ethereum                                              |
+| ----------------------------------------------------- |
+| Address: `0x7d33099b38015F1003E8AA75278cDB7EBD657Ebb` | 
+
 </br></br>
 
 ## 👋 Contributing to Arclight
